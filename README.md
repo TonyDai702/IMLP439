@@ -1,3 +1,4 @@
 # IMLP439
-For NTU IMLP439 course
+
+## WEEK1
 HW1 - []()
