@@ -1,9 +1,12 @@
 # IMLP439
 
-## WEEK1
-[HW1](<https://github.com/TonyDai702/IMLP439/blob/afb7b247be2a17e1893413ae88e6b302ddb53103/Unit01_Crash%20Course%20on%20Python.ipynb>)
+## WEEK1  
+Introduction to Python for/while loop, some useful modules such as os, shutil
+[HW1](https://github.com/TonyDai702/IMLP439/tree/41a23c98d909b0d9a36dd614253898c227b99189/Unit01)
 
-## WEEK2
+## WEEK2  
+**[Introduction to NumPy]**  
+**[Introduction to Pandas]**  
 
 ## WEEK3
 
