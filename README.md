@@ -7,8 +7,8 @@ Further info regarding encoding, decoding needed.
 
 ## WEEK2  
 **[Introduction to NumPy]**  
-**[Introduction to Pandas]**  
-
+**[Introduction to Pandas]**    
+**[Coding Practice]**
 ## WEEK3
 
 ## WEEK4
