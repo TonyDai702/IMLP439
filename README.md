@@ -7,8 +7,8 @@ Further info regarding encoding, decoding needed.
 
 ## WEEK2  
 **[Introduction to NumPy]**  
-**[Introduction to Pandas]** 
-**[Introduction to MatplotLib]**  
+**[Introduction to Pandas]**  
+**[Introduction to MatplotLib]**    
 **[Introduction to SeaBorn]**     
 **[Coding Practice]**  
 
