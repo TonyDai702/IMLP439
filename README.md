@@ -9,7 +9,7 @@ Further info regarding encoding, decoding needed.
 **[Introduction to NumPy]**  
 **[Introduction to Pandas]**  
 **[Introduction to MatplotLib]**    
-**[Introduction to SeaBorn]**     
+**[Introduction to SeaBorn]**(Seems to be preferred over Matplotlib)       
 **[Coding Practice]**  
 
 ## WEEK3
