@@ -14,7 +14,7 @@ Further info regarding encoding, decoding needed.
       
 **[Introduction to SeaBorn]**(Seems to be preferred over Matplotlib)       
 **1.**  
-sns.set(context='notebook', style='darkgrid', palette='deep', font='sans-serif', font_scale=1, color_codes=True, rc=None)  
+sns.set(context='', style='', palette='', font='', font_scale='', color_codes='', rc='')  
 **2.**  
 distplot, jointplot, regression, violin plot, box plot  
      
