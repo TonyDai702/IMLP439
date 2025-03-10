@@ -7,14 +7,18 @@ Further info regarding encoding, decoding needed.
 
 ## WEEK2  
 **[Introduction to NumPy]**  
+  
 **[Introduction to Pandas]**  
-**[Introduction to MatplotLib]**    
+    
+**[Introduction to MatplotLib]**  
+      
 **[Introduction to SeaBorn]**  
 (Seems to be preferred over Matplotlib)       
 **1.**  
 sns.set(context='notebook', style='darkgrid', palette='deep', font='sans-serif', font_scale=1, color_codes=True, rc=None)  
 **2.**  
-distplot, jointplot, regression   
+distplot, jointplot, regression, violin plot, box plot  
+     
 **[Coding Practice]**  
 
 ## WEEK3
