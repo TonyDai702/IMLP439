@@ -12,8 +12,7 @@ Further info regarding encoding, decoding needed.
     
 **[Introduction to MatplotLib]**  
       
-**[Introduction to SeaBorn]**  
-(Seems to be preferred over Matplotlib)       
+**[Introduction to SeaBorn]**(Seems to be preferred over Matplotlib)       
 **1.**  
 sns.set(context='notebook', style='darkgrid', palette='deep', font='sans-serif', font_scale=1, color_codes=True, rc=None)  
 **2.**  
