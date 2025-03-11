@@ -14,9 +14,8 @@ Further info regarding encoding, decoding needed.
       
 **[Introduction to SeaBorn]**(Seems to be preferred over Matplotlib)       
 1. sns.set(context='', style='', palette='', font='', font_scale='', color_codes='', rc='')  
-2. distplot, jointplot, regression, violin plot, box plot  
-     
-**[Coding Practice]**  
+2. distplot, jointplot, regression, violin plot, box plot       
+[Coding Practice](https://github.com/TonyDai702/IMLP439/tree/58106cb294ce12e2bf1f8a546d7bcf4b980755c9/WEEK2%E8%AA%B2%E5%A0%82%E7%B7%B4%E7%BF%92)  
 
 ## WEEK3
   
