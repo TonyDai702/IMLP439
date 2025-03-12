@@ -4,7 +4,7 @@
 Introduction to for/while loop, some useful modules such as os, shutil; and how to manipulate the file.  
 Further info regarding encoding, decoding needed.  
 
-## WEEK2 [HW2](https://github.com/TonyDai702/IMLP439/tree/7c79039a62e739f71fb070ca7d97ec35cb6bab72/Unit02)   
+## WEEK2 [HW2](https://github.com/TonyDai702/IMLP439/tree/88f9870e9a7c92630a70892c48519787205c332f/Unit02)   
 **[Introduction to NumPy]**  
   
 **[Introduction to Pandas]**  
