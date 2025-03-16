@@ -15,6 +15,7 @@ Further info regarding encoding, decoding needed.
 1. sns.set(context='', style='', palette='', font='', font_scale='', color_codes='', rc='')  
 2. distplot, jointplot, regression, violin plot, box plot  
 
-## WEEK3
+## WEEK3  
+**[Introduction to AI, ML, and cross validation]**  
   
 ## WEEK4
