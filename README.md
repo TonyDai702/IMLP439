@@ -20,6 +20,7 @@ Further info regarding encoding, decoding needed.
 **[Introduction to features, scaling, similarity]**   
 1. normalization, standardization scaling  
 2. Euclidean, cosine distance  
+  
 **[Scikit-learn, feature encoding]**   
 1. one hot encoding: Sklearn, pd.getdummies  
 2. Label encoding: LabelEncoder, or directly using .map() function  
