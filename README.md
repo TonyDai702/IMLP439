@@ -1,10 +1,10 @@
 # IMLP439
 
-## WEEK1  
+## WEEK1  [HW1](https://github.com/TonyDai702/IMLP439/tree/main/Unit01)  
 Introduction to for/while loop, some useful modules such as os, shutil; and how to manipulate the file.  
 Further info regarding encoding, decoding needed.  
 
-## WEEK2    
+## WEEK2  [HW2](https://github.com/TonyDai702/IMLP439/tree/main/Unit02)  
 **[Introduction to NumPy]**  
   
 **[Introduction to Pandas]**  
@@ -15,7 +15,7 @@ Further info regarding encoding, decoding needed.
 1. sns.set(context='', style='', palette='', font='', font_scale='', color_codes='', rc='')  
 2. distplot, jointplot, regression, violin plot, box plot  
 
-## WEEK3  
+## WEEK3  [HW3](https://github.com/TonyDai702/IMLP439/tree/main/Unit03)  
 **[Introduction to AI, ML, and cross validation]**    
 **[Introduction to features, scaling, similarity]**   
 1. normalization, standardization scaling  
@@ -25,7 +25,7 @@ Further info regarding encoding, decoding needed.
 1. one hot encoding: Sklearn, pd.getdummies  
 2. Label encoding: LabelEncoder, or directly using .map() function  
   
-## WEEK4   
+## WEEK4  [HW4](https://github.com/TonyDai702/IMLP439/tree/main/Unit04)  
 **[Linear Regression]**  
 1. Loss function, calculation of MAE, MSE, RMSD  
 2. regr.coef_[0] (Please don't forget to add [0] if you only want to get the first one)
