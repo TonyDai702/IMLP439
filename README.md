@@ -25,4 +25,6 @@ Further info regarding encoding, decoding needed.
 1. one hot encoding: Sklearn, pd.getdummies  
 2. Label encoding: LabelEncoder, or directly using .map() function  
   
-## WEEK4
+## WEEK4  
+**[Linear Regression]**  
+1. Loss function, calculation of MAE, MSE, RMSD  
