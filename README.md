@@ -28,4 +28,4 @@ Further info regarding encoding, decoding needed.
 ## WEEK4  
 **[Linear Regression]**  
 1. Loss function, calculation of MAE, MSE, RMSD  
-2. regr.coef_[0] (Please don't forget to add [0])
+2. regr.coef_[0] (Please don't forget to add [0] if you only want to get the first one)
