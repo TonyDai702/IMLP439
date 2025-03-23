@@ -28,4 +28,6 @@ Further info regarding encoding, decoding needed.
 ## WEEK4  [HW4](https://github.com/TonyDai702/IMLP439/tree/main/Unit04)  
 **[Linear Regression]**  
 1. Loss function, calculation of MAE, MSE, RMSD  
-2. regr.coef_[0] (Please don't forget to add [0] if you only want to get the first one)
+2. regr.coef_[0] (Please don't forget to add [0] if you only want to get the first one)  
+3. Lasso and Ridge Regularization  
+4. Gradient Descent practice  
