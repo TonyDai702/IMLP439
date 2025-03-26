@@ -33,4 +33,4 @@ Further info regarding encoding, decoding needed.
 4. Gradient Descent practice  
   
 ## WEEK5  
-**[Supervised Learning]**
+**[Supervised Learning - classification]**
