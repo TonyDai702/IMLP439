@@ -32,8 +32,8 @@ Further info regarding encoding, decoding needed.
 3. Lasso and Ridge Regularization  
 4. Gradient Descent practice  
   
-## WEEK5  
+## WEEK5  [HW5](https://github.com/TonyDai702/IMLP439/tree/main/Unit05)  
 **[Supervised Learning - classification: Logistic regression & KNN]**  
-**[Supervised Learning - classification: SVM]**  
+**[Supervised Learning - classification: SVM, Decision Tree, Random Forest]**  
 1. For SVM, please refer to the [link](https://chih-sheng-huang821.medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E6%94%AF%E6%92%90%E5%90%91%E9%87%8F%E6%A9%9F-support-vector-machine-svm-%E8%A9%B3%E7%B4%B0%E6%8E%A8%E5%B0%8E-c320098a3d2e)  
 2. 
