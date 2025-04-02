@@ -43,5 +43,6 @@ Further info regarding encoding, decoding needed.
 1. Introduction to confusion matrix, ROC, AUC  
 2. bagging (parallel), boosting (sequential), and Adaboost. Please refer to the [link](https://chih-sheng-huang821.medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-ensemble-learning%E4%B9%8Bbagging-boosting%E5%92%8Cadaboost-af031229ebc3)  
 3. Slides provide some useful YT videos  
+4. Bayes classificaiton (seld-reading) [link1](https://ithelp.ithome.com.tw/articles/10205582?sc=iThelpR), [link2](https://www.mropengate.com/2015/06/ai-ch14-3-naive-bayes-classifier.html), [link3](https://fu-sheng-wang.blogspot.com/2017/03/ai231-naive-bayes-classifier.html)  
   
 ## WEEK7  
