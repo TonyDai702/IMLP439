@@ -37,3 +37,8 @@ Further info regarding encoding, decoding needed.
 **[Supervised Learning - classification: SVM, Decision Tree, Random Forest]**  
 1. For SVM, refer to the [link](https://chih-sheng-huang821.medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E6%94%AF%E6%92%90%E5%90%91%E9%87%8F%E6%A9%9F-support-vector-machine-svm-%E8%A9%B3%E7%B4%B0%E6%8E%A8%E5%B0%8E-c320098a3d2e)  
 2. For Random Forest Automatic tuning of hyperparameter, can see tqdm **(Get back to here after offer is made)**  
+  
+## WEEK6  [HW6]()  
+**[Ensemble learning]**  
+1. An ensemble classifier is a machine learning algorithm used to address the problem of class imbalance by combining the predictions of multiple classifiers to create a stronger classifier.
+2. 
