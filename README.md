@@ -40,5 +40,5 @@ Further info regarding encoding, decoding needed.
   
 ## WEEK6  [HW6]()  
 **[Ensemble learning]**  
-1. An ensemble classifier is a machine learning algorithm used to address the problem of class imbalance by combining the predictions of multiple classifiers to create a stronger classifier.
+1. Introduction to confusion matrix, ROC, AUC  
 2. 
