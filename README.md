@@ -41,4 +41,4 @@ Further info regarding encoding, decoding needed.
 ## WEEK6  [HW6]()  
 **[Ensemble learning]**  
 1. Introduction to confusion matrix, ROC, AUC  
-2. 
+2. bagging (parallel), boosting (sequential)  
