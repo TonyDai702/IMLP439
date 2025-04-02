@@ -41,6 +41,6 @@ Further info regarding encoding, decoding needed.
 ## WEEK6  [HW6](https://github.com/TonyDai702/IMLP439/tree/main/Unit06)  
 **[Ensemble learning]**  
 1. Introduction to confusion matrix, ROC, AUC  
-2. bagging (parallel), boosting (sequential), please refer to the [link](https://chih-sheng-huang821.medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-ensemble-learning%E4%B9%8Bbagging-boosting%E5%92%8Cadaboost-af031229ebc3)  
+2. bagging (parallel), boosting (sequential), Adaboost. Please refer to the [link](https://chih-sheng-huang821.medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-ensemble-learning%E4%B9%8Bbagging-boosting%E5%92%8Cadaboost-af031229ebc3)  
   
 ## WEEK7  
