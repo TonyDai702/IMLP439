@@ -47,4 +47,5 @@ Further info regarding encoding, decoding needed.
 4. Bayes classificaiton (seld-reading) [link1](https://ithelp.ithome.com.tw/articles/10205582?sc=iThelpR), [link2](https://www.mropengate.com/2015/06/ai-ch14-3-naive-bayes-classifier.html), [link3](https://fu-sheng-wang.blogspot.com/2017/03/ai231-naive-bayes-classifier.html)  
 5. Practice on K-fold training  
   
-## WEEK7  
+## WEEK7 & WEEK8  
+**[Unsupervised learning]**  
